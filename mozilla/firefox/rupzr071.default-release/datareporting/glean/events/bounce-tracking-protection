@@ -1,0 +1,8 @@
+{"timestamp":7200467,"category":"bounce.tracking.protection","name":"purge_action","extra":{"glean_timestamp":"1777902484603","success":"true","is_dry_run":"true","site_host":"grok.ai","require_stateful_bounces":"false","bounce_time":"1777897502"}}
+{"timestamp":7200467,"category":"bounce.tracking.protection","name":"purge_action","extra":{"require_stateful_bounces":"false","glean_timestamp":"1777902484603","success":"true","bounce_time":"1777897476","is_dry_run":"true","site_host":"githubstatus.com"}}
+{"timestamp":1661,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2026-05-04T18:00+00:00","glean_timestamp":"1777917606692"},"execution_counter":1}
+{"timestamp":856,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2026-05-04T18:44+00:00","glean_timestamp":"1777920287364"},"execution_counter":2}
+{"timestamp":900,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2026-05-04T19:03+00:00","glean_timestamp":"1777921396623"},"execution_counter":3}
+{"timestamp":1060,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2026-05-04T19:55+00:00","glean_timestamp":"1777924538423"},"execution_counter":4}
+{"timestamp":1080,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2026-05-04T19:58+00:00","glean_timestamp":"1777924706871"},"execution_counter":5}
+{"timestamp":1057,"category":"glean","name":"restarted","extra":{"glean_timestamp":"1777924742051","glean.startup.date":"2026-05-04T19:59+00:00"},"execution_counter":6}

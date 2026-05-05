@@ -1,0 +1,35 @@
+super + q
+	kitty
+
+super + r
+	rofi -show drun
+
+super + c
+	bspc node -c
+
+super + e
+	kitty yazi
+
+super + 1
+	bspc desktop -f ^1
+super + 2
+	bspc desktop -f ^2
+super + 3
+	bspc desktop -f ^3
+super + 4
+	bspc desktop -f ^4
+super + 5
+	bspc desktop -f ^5
+super + 6
+	bspc desktop -f ^6
+super + 7
+	bspc desktop -f ^7
+super + 8
+	bspc desktop -f ^8
+super + 9
+	bspc desktop -f ^9
+
+super + v 
+	bspc node -t floating || bspc node -t tiled
+
+
