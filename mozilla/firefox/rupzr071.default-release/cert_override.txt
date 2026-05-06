@@ -1,3 +1,0 @@
-# PSM Certificate Override Settings file
-# This is a generated file!  Do not edit.
-ftp3.us.freebsd.org:443:	OID.2.16.840.1.101.3.4.2.1	DF:C4:B0:25:68:B2:68:D7:4A:E3:B9:BB:4C:D3:BF:F3:E6:B0:78:A0:59:95:AE:E1:40:3C:2F:36:46:71:E9:2E	
